@@ -40,12 +40,13 @@ https://docs.google.com/presentation/d/1mOg5BMM2i0HPCAHPyD9EsIxbgHN0XO6H/edit?us
 - **Status:** ✓ Achieved 
 
 ## Analysis
-- **Best performing class:** [class name]
-- **Worst performing class:** [class name]
-- **Key observations:** [2-3 sentences about what you learned]
+- **Best performing class:** Ankle Boot
+- **Worst performing class:** T-shirt/top
+- **Key observations:** The model trained with batch size 128 performed better, achieving higher accuracy due to improved generalization from noisier gradient updates.
+Although batch size 64 provided smoother training, it converged to a slightly less optimal solution within the same number of epochs.
 
 ## Files
-- `notebook.ipynb`: Complete implementation with both training runs
+- `notebook.ipynb`: https://colab.research.google.com/drive/1IM2wxxyrGz78MMFTnaN66VNPuw7a9iXR#scrollTo=PlymhbpG2nqd
 - `results/training_comparison.png`:<img width="573" height="470" alt="image" src="https://github.com/user-attachments/assets/0d61a9b4-05c0-48c1-bf2f-9a1a9e9a418f" />
 - `results/confusion_matrix.png`: <img width="572" height="455" alt="image" src="https://github.com/user-attachments/assets/241c7ff2-924f-40a8-89fc-42cf02134719" />
 

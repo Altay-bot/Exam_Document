@@ -1,4 +1,3 @@
-# DL-Exam-Task[2]-[Altay Bayramzade]
 # Task 2: Fashion_MNİST Clasification
 
 **Student:** Bayramzade Altay  
@@ -6,7 +5,7 @@
 **Seed:** 20240102
 
 ## Presentation
-[View Presentation Slides](https://drive.google.com/your-link-here)
+[View Presentation Slides]([https://drive.google.com/your-link-here](https://docs.google.com/presentation/d/1mOg5BMM2i0HPCAHPyD9EsIxbgHN0XO6H/edit?usp=drive_link&ouid=113244003406776317592&rtpof=true&sd=true))
 
 ## Dataset
 - **Name:** Fashion-MNİST
@@ -52,4 +51,5 @@
 
 
 
-- `results/predictions.png`: Sample predictions
+- `results/predictions.png`: <img width="950" height="454" alt="image" src="https://github.com/user-attachments/assets/8e915b3f-4678-4511-9a13-7378698cfb09" />
+

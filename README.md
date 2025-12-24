@@ -5,7 +5,7 @@
 **Seed:** 20240102
 
 ## Presentation
-[View Presentation Slides]([https://drive.google.com/your-link-here](https://docs.google.com/presentation/d/1mOg5BMM2i0HPCAHPyD9EsIxbgHN0XO6H/edit?usp=drive_link&ouid=113244003406776317592&rtpof=true&sd=true))
+https://docs.google.com/presentation/d/1mOg5BMM2i0HPCAHPyD9EsIxbgHN0XO6H/edit?usp=drive_link&ouid=113244003406776317592&rtpof=true&sd=true
 
 ## Dataset
 - **Name:** Fashion-MNİST

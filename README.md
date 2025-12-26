@@ -5,7 +5,7 @@
 **Seed:** 20240102
 
 ## Presentation
-https://docs.google.com/presentation/d/1mOg5BMM2i0HPCAHPyD9EsIxbgHN0XO6H/edit?usp=drive_link&ouid=113244003406776317592&rtpof=true&sd=true
+(https://docs.google.com/presentation/d/1mOg5BMM2i0HPCAHPyD9EsIxbgHN0XO6H/edit?usp=drive_link&ouid=113244003406776317592&rtpof=true&sd=true)
 
 ## Dataset
 - **Name:** Fashion-MNİST
@@ -46,7 +46,7 @@ https://docs.google.com/presentation/d/1mOg5BMM2i0HPCAHPyD9EsIxbgHN0XO6H/edit?us
 Although batch size 64 provided smoother training, it converged to a slightly less optimal solution within the same number of epochs.
 
 ## Files
-- `notebook.ipynb`: https://colab.research.google.com/drive/1IM2wxxyrGz78MMFTnaN66VNPuw7a9iXR#scrollTo=PlymhbpG2nqd
+- `notebook.ipynb`: (https://colab.research.google.com/drive/1IM2wxxyrGz78MMFTnaN66VNPuw7a9iXR#scrollTo=yZ0g4T5B4Of_)
 - `results/training_comparison.png`:<img width="573" height="470" alt="image" src="https://github.com/user-attachments/assets/0d61a9b4-05c0-48c1-bf2f-9a1a9e9a418f" />
 - `results/confusion_matrix.png`: <img width="572" height="455" alt="image" src="https://github.com/user-attachments/assets/241c7ff2-924f-40a8-89fc-42cf02134719" />
 
